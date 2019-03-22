@@ -19,3 +19,6 @@ FlowCP is not production ready yet.
 * Add your MySQL credentials to the .env file, copy it from .env.example if it does not exist
 * Run `php artisan serve`
 * Access FlowCP via http://localhost/8000
+
+## License
+FlowCP is licensed under GNU Affero General Public License version 3.
